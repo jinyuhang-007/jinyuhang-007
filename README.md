@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently studying a master's program in computer science at the University of Southern California.
+- I'm currently a master's student majoring in computer science at the University of Southern California.
+- I'm a tennis lover.
+- How to reach me: yuhangjin1999@outlook.com
 
+### Summary for this year
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jinyuhang-007&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=shadow_blue&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyuhang-007&hide_title=false&hide_border=false&layout=compact&theme=shadow_blue&locale=en" />
