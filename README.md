@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm currently a master's student majoring in computer science at the University of Southern California.
+- I'm currently working on Easley Dunn Productions, Inc.	
 - I'm a tennis lover.
 - How to reach me: yuhangjin1999@outlook.com
 
